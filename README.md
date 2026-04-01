@@ -8,9 +8,9 @@
 **Power draw**: 550W (idle) / 2400W (peak inference)
 
 
-**Feel free to ask any questions and/or share any comments in the issues section here or in the medium article or in the reddit publication:** 
- - https://medium.com/@ai-infos/
- - https://www.reddit.com/r/LocalLLaMA/
+**Feel free to ask any questions and/or share any comments in the issues section here or in the medium article or in the reddit publication or in gfx906 discord:** 
+ - https://medium.com/@ai-infos/16x-amd-mi50-32gb-at-32-t-s-tg-2k-t-s-pp-with-qwen3-5-397b-vllm-gfx906-mobydick-54584a699a81
+ - https://www.reddit.com/r/LocalLLaMA/comments/1s9ivgl/16x_amd_mi50_32gb_at_32_ts_tg_2k_ts_pp_with/
 
 ## Hardware details
 
